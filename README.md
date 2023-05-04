@@ -1,11 +1,20 @@
 # CT_Homeworks
 Домашние задания и лабораторные в рамках обучения на курсе КТ Итмо. Все файлы написаны самостоятельно.  
 
+лабораторные работы (контесты CodeForce) по предмету "Алгоритмы и структуры данных":
 ALGO_LAB1_sem1, ссылка на контест: https://codeforces.com/group/f72PAiwhaF/contest/407393
 ALGO_LAB2_sem1, ссылка на контест: https://codeforces.com/group/f72PAiwhaF/contest/414935
 ALGO_LAB1_sem2, ссылка на контест: https://codeforces.com/group/f72PAiwhaF/contest/429071
 
 CompArch: домашние задания в рамках курса "Архитектура ЭВМ";
-    1. тз: https://github.com/rvem/itmo-comp-arch-2022/blob/main/hw1.md
-    2. тз: https://github.com/rvem/itmo-comp-arch-2022/blob/main/hw2.md
-    3. тз: https://github.com/rvem/itmo-comp-arch-2022/blob/main/hw3.md
+    1. ternary_logic, тз: https://github.com/rvem/itmo-comp-arch-2022/blob/main/hw1.md
+    2. calculator, тз: https://github.com/rvem/itmo-comp-arch-2022/blob/main/hw2.md
+    3. CPU, тз: https://github.com/rvem/itmo-comp-arch-2022/blob/main/hw3.md
+
+PROGRAMMING_HW: домашние задания в рамках курса "Программирование / Парадигмы программирования";
+1. expresion, markup: интерфейсы парсера
+2. Scanner: сканнер с буферным чтением. все программы, представленные ниже, успешно работают через него. кроссплатформенный, O(n).
+2. Reverce: тз - выводить вводимые числа в точности в обратном порядке.
+3. Sum: тз - выводить сумму введенных чисел. 
+4. WordStatWords: Программа высчитывает статистику встречаемости слов во входном файле. Для каждого слова должна быть выведена одна строка, содержащая слово и число его вхождений во входном файле.
+5. Wspp: Программа высчитывает статистику встречаемости слов во входном файле. Для каждого слова должна быть выведена одна строка, содержащая слово, число его вхождений во входной файл, номера строк и номера вхождений этого слова среди каждой из строк соответственно.
