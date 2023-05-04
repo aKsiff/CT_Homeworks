@@ -6,10 +6,7 @@ ALGO_LAB1_sem1, ссылка на контест: https://codeforces.com/group/f
 ALGO_LAB2_sem1, ссылка на контест: https://codeforces.com/group/f72PAiwhaF/contest/414935
 ALGO_LAB1_sem2, ссылка на контест: https://codeforces.com/group/f72PAiwhaF/contest/429071
 
-CompArch: домашние задания в рамках курса "Архитектура ЭВМ";
-    1. ternary_logic, тз: https://github.com/rvem/itmo-comp-arch-2022/blob/main/hw1.md
-    2. calculator, тз: https://github.com/rvem/itmo-comp-arch-2022/blob/main/hw2.md
-    3. CPU, тз: https://github.com/rvem/itmo-comp-arch-2022/blob/main/hw3.md
+CompArch: домашние задания в рамках курса "Архитектура ЭВМ"; имеет собственный README
 
 PROGRAMMING_HW: домашние задания в рамках курса "Программирование / Парадигмы программирования";
 1. expresion, markup: интерфейсы парсера
